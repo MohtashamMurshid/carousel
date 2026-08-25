@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1200" viewBox="0 0 1600 1200" fill="none">
+  <rect width="1600" height="1200" fill="#16141A"/>
+  <rect x="48" y="44" width="1504" height="1112" rx="28" fill="#1E1C24" stroke="#2E2B34"/>
+  <text x="80" y="108" fill="#8D8C87" font-family="Geist, sans-serif" font-size="18" letter-spacing="2">DESK / THIS WEEK</text>
+  <text x="80" y="156" fill="#F3F2EF" font-family="Geist, sans-serif" font-size="44" font-weight="600">Pipeline desk</text>
+  <rect x="1288" y="92" width="220" height="40" rx="20" stroke="#3A3642"/>
+  <text x="1338" y="118" fill="#8D8C87" font-family="Geist, sans-serif" font-size="16">Live fixture</text>
+  <g>
+    <rect x="80" y="196" width="448" height="150" rx="18" fill="#232029" stroke="#3A3642"/>
+    <text x="104" y="236" fill="#8D8C87" font-family="Geist, sans-serif" font-size="18">Leads</text>
+    <text x="104" y="292" fill="#F3F2EF" font-family="Geist, sans-serif" font-size="44" font-weight="600">2,416</text>
+    <circle cx="472" cy="271" r="28" stroke="#3A3642" stroke-width="6"/>
+    <circle cx="472" cy="271" r="28" stroke="#475569" stroke-width="6" stroke-dasharray="126" stroke-dashoffset="36" transform="rotate(-90 472 271)"/>
+    <rect x="576" y="196" width="448" height="150" rx="18" fill="#232029" stroke="#3A3642"/>
+    <text x="600" y="236" fill="#8D8C87" font-family="Geist, sans-serif" font-size="18">Conversion</text>
+    <text x="600" y="292" fill="#F3F2EF" font-family="Geist, sans-serif" font-size="44" font-weight="600">6.2%</text>
+    <rect x="1072" y="196" width="448" height="150" rx="18" fill="#232029" stroke="#3A3642"/>
+    <text x="1096" y="236" fill="#8D8C87" font-family="Geist, sans-serif" font-size="18">Deals won</text>
+    <text x="1096" y="292" fill="#F3F2EF" font-family="Geist, sans-serif" font-size="44" font-weight="600">51</text>
+  </g>
+  <rect x="80" y="370" width="1440" height="430" rx="20" fill="#232029" stroke="#3A3642"/>
+  <text x="104" y="414" fill="#8D8C87" font-family="Geist, sans-serif" font-size="16">BOOKED REVENUE</text>
+  <text x="104" y="458" fill="#F3F2EF" font-family="Geist, sans-serif" font-size="32" font-weight="600">124k</text>
+  <polyline points="120,720 230,680 340,698 450,610 560,640 670,548 780,580 890,520 1000,546 1110,470 1220,494 1360,430" stroke="#475569" stroke-width="6" fill="none"/>
+  <polygon points="120,740 120,720 230,680 340,698 450,610 560,640 670,548 780,580 890,520 1000,546 1110,470 1220,494 1360,430 1360,740" fill="#475569" opacity="0.22"/>
+  <g fill="#1E1C24">
+    <rect x="80" y="824" width="1440" height="300" rx="18" fill="#232029" stroke="#3A3642"/>
+  </g>
+  <text x="104" y="868" fill="#8D8C87" font-family="Geist, sans-serif" font-size="16">DESK</text>
+  <text x="104" y="916" fill="#F3F2EF" font-family="Geist, sans-serif" font-size="24">Northbound</text>
+  <text x="104" y="964" fill="#F3F2EF" font-family="Geist, sans-serif" font-size="24">Keel</text>
+  <text x="104" y="1012" fill="#F3F2EF" font-family="Geist, sans-serif" font-size="24">Harbor</text>
+  <text x="104" y="1060" fill="#F3F2EF" font-family="Geist, sans-serif" font-size="24">Drift</text>
+  <text x="720" y="916" fill="#F3F2EF" font-family="Geist, sans-serif" font-size="24">184</text>
+  <text x="720" y="964" fill="#F3F2EF" font-family="Geist, sans-serif" font-size="24">96</text>
+  <text x="720" y="1012" fill="#F3F2EF" font-family="Geist, sans-serif" font-size="24">143</text>
+  <text x="720" y="1060" fill="#F3F2EF" font-family="Geist, sans-serif" font-size="24">61</text>
+  <text x="980" y="916" fill="#F3F2EF" font-family="Geist, sans-serif" font-size="24">72%</text>
+  <text x="980" y="964" fill="#F3F2EF" font-family="Geist, sans-serif" font-size="24">54%</text>
+  <text x="980" y="1012" fill="#F3F2EF" font-family="Geist, sans-serif" font-size="24">81%</text>
+  <text x="980" y="1060" fill="#F3F2EF" font-family="Geist, sans-serif" font-size="24">41%</text>
+  <text x="1280" y="916" fill="#8FCDB0" font-family="Geist, sans-serif" font-size="24">Open</text>
+  <text x="1280" y="964" fill="#E6D7BF" font-family="Geist, sans-serif" font-size="24">Held</text>
+  <text x="1280" y="1012" fill="#8FCDB0" font-family="Geist, sans-serif" font-size="24">Open</text>
+  <text x="1280" y="1060" fill="#E07A6A" font-family="Geist, sans-serif" font-size="24">Risk</text>
+</svg>

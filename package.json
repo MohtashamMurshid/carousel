@@ -1,0 +1,46 @@
+{
+  "name": "carousel",
+  "private": false,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Client-only Instagram and LinkedIn carousel composer. Filmstrip preview, URL-as-state, local PNG export.",
+  "author": "Mohtasham Madani",
+  "license": "MIT",
+  "keywords": [
+    "carousel",
+    "instagram",
+    "filmstrip",
+    "vite",
+    "react"
+  ],
+  "scripts": {
+    "dev": "vite --host --port 5173",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview --host --port 5173",
+    "test": "vitest run",
+    "lint": "oxlint src"
+  },
+  "dependencies": {
+    "html-to-image": "^1.11.13",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
+  },
+  "devDependencies": {
+    "@types/node": "^24.13.3",
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.4",
+    "@vitejs/plugin-react": "^6.1.0",
+    "oxlint": "^1.79.0",
+    "typescript": "~6.0.2",
+    "vite": "^8.2.2",
+    "vitest": "^3.2.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MohtashamMurshid/carousel.git"
+  },
+  "homepage": "https://github.com/MohtashamMurshid/carousel",
+  "bugs": {
+    "url": "https://github.com/MohtashamMurshid/carousel/issues"
+  }
+}
